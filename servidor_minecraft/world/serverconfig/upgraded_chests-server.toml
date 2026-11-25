@@ -1,0 +1,7 @@
+
+[inventoryTools]
+	quickStackEnabled = true
+	depositAllEnabled = true
+	#Range: 4 ~ 32
+	transferRange = 16
+
